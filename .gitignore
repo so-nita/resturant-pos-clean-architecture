@@ -1,0 +1,71 @@
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.pdb
+*.cache
+*.log
+*.ide
+*.tlog
+*.csproj.user
+*.csproj
+*.dbmdl
+*.opendb
+*.VC.db
+
+# Build results
+bin/
+obj/
+
+# Entity Framework migrations
+Migrations/
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Node modules for frontend dependencies
+node_modules/
+
+# IDE files and folders
+.idea/
+.vscode/
+.vs/
+.ReSharper*/
+*.sln.DotSettings.user
+
+# Logs and temporary files
+*.log
+logs/
+*.tmp
+*.bak
+*.swp
+*.orig
+*.rej
+*~
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Rider and ReSharper specific files
+/.idea/
+/_ReSharper.Caches/
+*.iml
+
+# Package manager files
+/packages/
+
+# Local SQL Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Configurations
+appsettings.*.json
